@@ -43,5 +43,3 @@ Full job descriptions and how to apply: **[zyplexdigital.com/careers](https://zy
 
 Start a project or ask a question at **[zyplexdigital.com/contact](https://zyplexdigital.com/contact)**, or learn DevOps with us at
 **[zyplexdigital.com/training](https://zyplexdigital.com/training)**. We get back within one business day.
-
-<sub>604 Ishan Square, Motera, Ahmedabad, Gujarat 380005, India</sub>
